@@ -2,12 +2,13 @@
 
 👀 `I love learning new and cool things, such as physics, chemistry, and mathematics.` I also really like coding and experimenting with new software and hardware. I have a knack for messing around with beta software and never leaving my working software alone... sometimes improving it and usually breaking it...
 
-🌱 `I’m currently learning about statistics.` I finished learning economics a few weeks ago, and I do know a fair bit of calculus. I also learned physics and chemistry.
+🌱 `I’m currently learning about APIs.` I finished learning statistics some time ago, and I do know a fair bit of calculus. I also learned physics and chemistry.
 
 💞️ `My friend and I are both very good friends as well as coders.` Both of us love developing, and we both want to found a company together when we grow up that will enable us to change the world.
 
 📫 _How to reach me ..._
 **( that's a secret! )**
+###### (Well, not really a secret or anything, but just some private information that I will be keeping secret to myself, so essentially a secret, yeah.)
 
 <!---
 Module32/Module32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
