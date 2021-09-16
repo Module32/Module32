@@ -1,4 +1,4 @@
-👋 _Hello, I’m @Module32!_ I'm a young teenager as well as an aspiring developer who hopes to make a change in the world someday. My GitHub is for me to post my projects as well as showcase the tests I am making.
+👋 _Hello, I’m @Module32!_ I'm an aspiring developer who hopes to make a change in the world someday. My GitHub is for me to post my projects as well as showcase the tests I am making.
 
 👀 `I love learning new and cool things, such as physics, chemistry, and mathematics.` I also really like coding and experimenting with new software and hardware. I have a knack for messing around with beta software and never leaving my working software alone... sometimes improving it and usually breaking it...
 
