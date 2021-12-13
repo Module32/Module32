@@ -8,7 +8,6 @@
 
 📫 _How to reach me ..._
 **( that's a secret! )**
-###### (Well, not really a secret or anything, but just some private information that I will be keeping secret to myself, so essentially a secret, yeah.)
 
 <!---
 Module32/Module32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
