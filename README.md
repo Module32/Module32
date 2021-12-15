@@ -2,7 +2,7 @@
 
 👀 `I love learning new and cool things, such as physics, chemistry, and mathematics.` I also really like coding and experimenting with new software and hardware. I have a knack for messing around with beta software and never leaving my working software alone... sometimes improving it and usually breaking it...
 
-🌱 `I’m currently learning about APIs.` I finished learning statistics some time ago, and I do know a fair bit of calculus. I also learned physics and chemistry.
+🌱 `I’m currently learning about math in general.` I like to dabble in subjects that I find interesting. It's obviously not a rigorous way of studying, but eh.
 
 💞️ `My friend and I are both very good friends as well as coders.` Both of us love developing, and we both want to found a company together when we grow up that will enable us to change the world.
 
