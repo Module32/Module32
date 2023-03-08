@@ -1,5 +1,5 @@
 ```
 openterminal.vercel.app
 
-long live monospace
+idk what im doing
 ```
